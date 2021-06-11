@@ -3,3 +3,4 @@
 %uri=https://github.com/bluepuppetcompany/database-registration-service
 
 roles/registration_component 2021-06-07T08:50:25Z Joseph Choe <joseph@josephchoe.com> # Role for registration component
+roles/user_email_address_component 2021-06-11T11:24:41Z Joseph Choe <joseph@josephchoe.com> # Role for user email address component
