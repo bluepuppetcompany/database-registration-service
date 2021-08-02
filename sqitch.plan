@@ -6,3 +6,4 @@ roles/registration_component 2021-06-07T08:50:25Z Joseph Choe <joseph@josephchoe
 roles/user_email_address_component 2021-06-11T11:24:41Z Joseph Choe <joseph@josephchoe.com> # Role for user email address component
 roles/registration_view_data 2021-06-18T11:00:37Z Joseph Choe <joseph@josephchoe.com> # Role for registration view data
 roles/registration_resource 2021-06-18T11:04:23Z Joseph Choe <joseph@josephchoe.com> # Role for registration resource
+roles/welcome_email_component 2021-08-02T04:23:53Z Joseph Choe <joseph@josephchoe.com> # Role for welcome email component
